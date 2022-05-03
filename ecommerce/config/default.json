@@ -1,0 +1,6 @@
+
+{
+"dbURI": "mongodb+srv://soundaryadevatha:aryand@mainproject.utuu4.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+"jwtsecret": "b6be29642b1ebed26a8ae4095fe82f642ca1a8107426b510213c8cf6c48089eb",
+"StripeAPIKey": "sk_test_51KphGLHJHzw4SnES36oz7glabnstf6yVSRZRky5yqj9Y7Ju9XbWezrjCKH2A1AhSXjf7f8LgXcltuQjQWwMlKLb100MiD2Cihl"
+}
